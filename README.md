@@ -248,6 +248,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+        
+## My hackerrank Notes :)
+- [x] [HackerRank Problem Java Regex 2] (http://shrenoid.com/hackerrank-prblm-javaregex-dupliwords-solutn/)
+    - [Regex Editor] (https://regex101.com/r/odkYPx/1)
 
 ## Pick One Language for the Interview
 
