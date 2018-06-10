@@ -250,8 +250,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
         
 ## My hackerrank Notes :)
-- [x] [HackerRank Problem Java Regex 2](http://shrenoid.com/hackerrank-prblm-javaregex-dupliwords-solutn/)
+- [ ] [HackerRank Problem Java Regex 2](http://shrenoid.com/hackerrank-prblm-javaregex-dupliwords-solutn/)
     - [Regex Editor](https://regex101.com/r/odkYPx/1)
+    [ ]- [Derek Banas](https://www.youtube.com/watch?v=s_PfopWcMwI)
 
 ## Pick One Language for the Interview
 
