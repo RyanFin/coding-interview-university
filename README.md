@@ -252,7 +252,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## My hackerrank Notes :)
 - [ ] [HackerRank Problem Java Regex 2](http://shrenoid.com/hackerrank-prblm-javaregex-dupliwords-solutn/)
     - [Regex Editor](https://regex101.com/r/odkYPx/1)
-    [ ]- [Derek Banas](https://www.youtube.com/watch?v=s_PfopWcMwI)
+    -  [ ] [Derek Banas](https://www.youtube.com/watch?v=s_PfopWcMwI)
 
 ## Pick One Language for the Interview
 
