@@ -238,7 +238,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - **26:46** Write code on paper and test it on paper
         - **27:56** Data Structures and know when to implement them with time/space complexity for each one (Hash Tables the most crucial)
         - **28:48** Tree Insert and Find. Depth-first and Breadth-first search implementation into code
-        - **29:15** Scalability and Recursion for Web-based projects / companies with space complexity. Bit Manipulation    (At 33:48).
+        - **29:15** Scalability and Recursion for Web-based projects / companies with space complexity. Bit Manipulation    (At *41:19*).
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
