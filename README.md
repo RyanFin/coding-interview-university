@@ -245,7 +245,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
             - 2) How do you spend your typical day?
             - 3) Are there any particular reasons for that specific design choice (once asked), for example the choice of methodology (e.g. SCRUM and Agile methods etc).
             - 4) How are decisions made? Who are leading them?
-        -  Currently at *1:04:33* in the video
+        -  [CUSEC](http://cusec.net/)
         
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] How to Get a Job at the Big 4:
