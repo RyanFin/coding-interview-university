@@ -233,7 +233,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - **20:52** Create and Prepare Behavioural Questions with the use of a *Preparation Grid* for Projects
         - **26:46** Write code on paper and test it on paper
         - **27:56** Data Structures and know when to implement them with time/space complexity for each one (Hash Tables the most crucial)
